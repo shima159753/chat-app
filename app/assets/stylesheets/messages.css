@@ -53,8 +53,12 @@
   align-items: center;
 }
 
-.chat-name a{
+.chat-name{
   margin-left: 40px;
+}
+
+.chat-name a{
+
   margin-top: 36px;
   color: #333;
   font-size: 24px;
